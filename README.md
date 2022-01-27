@@ -8,8 +8,8 @@ I'm passionate about data science and machine learning and the use of spatial da
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <code><img height="20" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/OSGeo/grass-website/master/static/images/favicon/android-chrome-192x192.png"></code>
 
