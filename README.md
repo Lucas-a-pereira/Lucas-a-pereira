@@ -13,9 +13,9 @@ I'm passionate about data science and machine learning and the use of spatial da
 <code><img height="20" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/OSGeo/grass-website/master/static/images/favicon/android-chrome-192x192.png"></code>
 
+
 <div>
   <a href="https://github.com/Lucas-a-pereira">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lucas-a-pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-a-pereira&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
