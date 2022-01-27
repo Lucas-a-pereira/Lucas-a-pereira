@@ -4,6 +4,7 @@ I'm a biologist with a Master's degree in Ecology, Evolution and Biodiversity at
 
 I'm passionate about data science and machine learning and the use of spatial data in these fields. Right now I'm looking for my first job outside academia while growing my skills as a coder.
 
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
