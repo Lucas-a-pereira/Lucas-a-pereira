@@ -16,7 +16,7 @@ I'm passionate about data science and machine learning and the use of spatial da
 
 <div>
   <a href="https://github.com/Lucas-a-pereira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-a-pereira&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-a-pereira&langs_count=16&theme=tokyonight"/>
 <div>
 
 
