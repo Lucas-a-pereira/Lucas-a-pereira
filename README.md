@@ -19,7 +19,10 @@ I'm passionate about data science and machine learning and the use of spatial da
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-a-pereira&langs_count=16&theme=tokyonight"/>
 <div>
 
-
+#### More about me:
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png"/>](https://www.linkedin.com/in/lucas-pereira-25324313a/)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/Lucas_A_Pereira)
+[<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com.br/citations?user=rw7M4rQAAAAJ&hl=pt-BR&oi=ao)
 <!---
 Lucas-a-pereira/Lucas-a-pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
