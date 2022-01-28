@@ -2,7 +2,7 @@
 
 I'm a biologist with a Master's degree in Ecology, Evolution and Biodiversity at [UNESP - Rio Claro, SP, Brazil.](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/)
 
-I'm passionate about data science and machine learning and the use of spatial data in these fields. Right now I'm looking for my first job outside academia while growing my skills as a coder.
+I'm passionate about data science and machine learning and the use of spatial data in these fields. Right now I'm looking for my first job outside academia while growing my skills as a data scientist.
 
 
 **Languages and Tools:**
